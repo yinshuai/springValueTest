@@ -1,0 +1,2 @@
+# springValueTest
+通过自定义实现Spring类似的Value功能
